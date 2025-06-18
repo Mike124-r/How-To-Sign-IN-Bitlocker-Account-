@@ -6,7 +6,13 @@ How To Sign IN Bitlocker Account: A Step-by-Step Guide
    :caption: Contents:
 
 
-For Sign IN, go to 👉 https://bitlockeraccount.com
+.
+.. image:: click-sign-in.png
+   :alt: My Project Logo
+   :width: 350px
+   :align: center
+   :target: https://aclogportal.com/
+
 -----------------
 
 
