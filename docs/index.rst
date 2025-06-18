@@ -6,7 +6,7 @@ How To Sign IN Bitlocker Account: A Step-by-Step Guide
    :caption: Contents:
 
 
-.
+
 .. image:: click-sign-in.png
    :alt: My Project Logo
    :width: 350px
